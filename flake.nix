@@ -37,7 +37,7 @@
           src = pkgs.fetchurl {
             inherit url;
 
-            # Use a fake hash once, then replace it
+            # FIXME: change hash every time
             sha256 = "sha256-ZkZBPfFptq2Y+oEVFxo1x7mi4X6jc6UZ7VyMJdy51Rw=";
           };
 
