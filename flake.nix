@@ -38,7 +38,7 @@
             inherit url;
 
             # FIXME: change hash every time
-            sha256 = "sha256-ZkZBPfFptq2Y+oEVFxo1x7mi4X6jc6UZ7VyMJdy51Rw=";
+            sha256 = "sha256-REdoX9LCNF6PZS8pc2DUetjItyAY3x9eiAdpd2/MGj4=";
           };
 
           installPhase = ''
